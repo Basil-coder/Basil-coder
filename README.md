@@ -1,6 +1,6 @@
 <h1 align="center">Hey welcome to the Basil_Coder Dojo</h1>
 
-<center><img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"></center>
+<img align= "center" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 
 <h3 align="center">A passionate frontend developer & Cybersecurity  working on multiple pro</h3>
 
